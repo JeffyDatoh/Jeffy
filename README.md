@@ -1,7 +1,6 @@
 # Hey! I'm Jeff.
 - 👋 Hi, I’m @JeffyChavinsean
-- 👀 I’m interested in Space, High Technology, Innovation, Web Development
-- 🌱 I’m currently learning Reactjs, Nextjs, Redux, GraphQL, GCP
+- 👀 I’m interested in Innovation, Web Development
 ### Things i code with:
 - ### Web Development:
 <p>
